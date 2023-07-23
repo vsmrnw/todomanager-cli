@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS todos(
+CREATE TABLE IF NOT EXISTS tasks(
     task_date TEXT,
-    tasks TEXT
+    task_description TEXT
 );

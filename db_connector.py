@@ -1,7 +1,7 @@
 import sqlite3
 
 
-class db_connector:
+class db_manage:
     """
     Class for management connections to db
     """
